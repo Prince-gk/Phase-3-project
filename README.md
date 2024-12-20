@@ -94,5 +94,9 @@ The Fitness Center Management System is a command-line interface (CLI)-based app
 ## Slides
 https://gamma.app/docs/Fitness-Center-Management-System-CLI-Based-06jck9c9auk25kf
 
+## Video link
+
+https://files.fm/u/4azxsse5su
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
